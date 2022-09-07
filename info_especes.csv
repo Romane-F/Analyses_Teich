@@ -1,0 +1,267 @@
+SP;NAME_SPECIES;STATUT_INTERNATIONAL;STATUT_EUROPE;STATUT_FRANCE_NICHEUR;STATUT_FRANCE_PASSAGE;STATUT_FRANCE_HIVER;STATUT_DEPT;INTEREST;FIRST_DATE_INTEREST;FAMILLE;ORDRE;COMPTE
+Accipiter gentilis;Autour des palombes;LC;;LC;;;;;;Accipitridé;Accipitriforme;TRUE
+Accipiter nisus;Épervier d'Europe;LC;;LC;;;;;;Accipitridé;Accipitriforme;TRUE
+Aquila pennata;Aigle botté;LC;;NT;;;;;;Accipitridé;Accipitriforme;TRUE
+Buteo buteo;Buse variable;LC;;LC;;;;;;Accipitridé;Accipitriforme;TRUE
+Circaetus gallicus;Circaète Jean-le-Blanc;LC;;LC;;;;;;Accipitridé;Accipitriforme;TRUE
+Circus aeruginosus;Busard des roseaux;LC;;NT;;;;;;Accipitridé;Accipitriforme;TRUE
+Circus cyaneus;Busard Saint-Martin;LC;;LC;;;;;;Accipitridé;Accipitriforme;TRUE
+Circus pygargus;Busard cendré;LC;;NT;;;;;;Accipitridé;Accipitriforme;TRUE
+Elanus caeruleus;Élanion blanc;LC;;VU;;;;;;Accipitridé;Accipitriforme;TRUE
+Gyps fulvus;Vautour fauve;LC;;LC;;;;;;Accipitridé;Accipitriforme;TRUE
+Milvus migrans;Milan noir;LC;;LC;;;;;;Accipitridé;Accipitriforme;TRUE
+Milvus milvus;Milan royal;NT;;VU;;VU;;;;Accipitridé;Accipitriforme;TRUE
+Pandion haliaetus;Balbuzard pêcheur;LC;;VU;LC;;;;;Accipitridé;Accipitriforme;TRUE
+Pernis apivorus;Bondrée apivore;LC;;LC;;;;;;Accipitridé;Accipitriforme;TRUE
+Acrocephalus arundinaceus;Rousserolle turdoïde;LC;;VU;;;;;;Acrocephalidé;Passeriforme;FALSE
+Acrocephalus paludicola;Phragmite aquatique;VU;;;VU;;;;;Acrocephalidé;Passeriforme;FALSE
+Acrocephalus schoenobaenus;Phragmite des joncs;LC;;LC;;;;;;Acrocephalidé;Passeriforme;FALSE
+Acrocephalus scirpaceus;Rousserolle effarvatte;LC;;LC;;;;;;Acrocephalidé;Passeriforme;FALSE
+Hippolais polyglotta;Hypolaïs polyglotte;LC;;LC;;;;;;Acrocephalidé;Passeriforme;FALSE
+Aegithalos caudatus;Mésange à longue queue;LC;;LC;;;;;;Aegithalidé;Passeriforme;FALSE
+Alauda arvensis;Alouette des champs;LC;;NT;;LC;;;;Alaudidé;Passeriforme;FALSE
+Lullula arborea;Alouette lulu;LC;;LC;;;;;;Alaudidé;Passeriforme;FALSE
+Alcedo atthis;Martin-pêcheur d'Europe;LC;;VU;;;;;;Alcedinidae;Coraciiforme;TRUE
+Aix galericulata;Canard mandarin;LC;;;;;;;;Anatidae;Anseriforme;TRUE
+Alopochen aegyptiaca;Ouette d'Egypte;LC;;;;;;;;Anatidae;Anseriforme;TRUE
+Anas acuta;Canard pilet;LC;;;;LC;;International;;Anatidae;Anseriforme;TRUE
+Anas americana;Canard à front blanc;LC;;;;;;;;Anatidae;Anseriforme;TRUE
+Anas clypeata;Canard souchet;LC;;LC;LC;;;National;;Anatidae;Anseriforme;TRUE
+Anas crecca;Sarcelle d'hiver;LC;;VU;;LC;;;;Anatidae;Anseriforme;TRUE
+Anas flavirostris;Sarcelle tachetée;;;;;;;;;Anatidae;Anseriforme;TRUE
+Anas penelope;Canard siffleur;LC;;;;LC;;;;Anatidae;Anseriforme;TRUE
+Anas platyrhynchos;Canard colvert;LC;;LC;;LC;;;;Anatidae;Anseriforme;TRUE
+Anas querquedula;Sarcelle d'été;LC;;VU;NT;;;;;Anatidae;Anseriforme;TRUE
+Anas strepera;Canard chipeau;LC;;LC;;LC;;;;Anatidae;Anseriforme;TRUE
+Anser albifrons;Oie rieuse;LC;;;;;;;;Anatidae;Anseriforme;TRUE
+Anser anser;Oie cendrée;LC;;VU;;LC;;;;Anatidae;Anseriforme;TRUE
+Anser brachyrhynchus;Oie à bec court;LC;;;;;;;;Anatidae;Anseriforme;TRUE
+Anser fabalis;Oie des moissons;LC;;;;VU;;;;Anatidae;Anseriforme;TRUE
+Ardea cinerea;Héron cendré;LC;;LC;;;;;;Anatidae;Anseriforme;TRUE
+Ardea purpurea;Héron pourpré;LC;;LC;;;;;;Anatidae;Anseriforme;TRUE
+Ardeola ralloides;Crabier chevelu;LC;;LC;;;;;;Anatidae;Anseriforme;TRUE
+Aythya ferina;Fuligule milouin;VU;;VU;;LC;;;;Anatidae;Anseriforme;TRUE
+Aythya fuligula;Fuligule morillon;LC;;LC;;NT;;;;Anatidae;Anseriforme;TRUE
+Aythya marila;Fuligule milouinan;LC;;;;NT;;;;Anatidae;Anseriforme;TRUE
+Aythya nyroca;Fuligule nyroca;NT;;;;;;;;Anatidae;Anseriforme;TRUE
+Botaurus stellaris;Butor étoilé;LC;;VU;;;;;;Anatidae;Anseriforme;TRUE
+Branta bernicla;Bernache cravant;LC;;;;LC;;;;Anatidae;Anseriforme;TRUE
+Branta canadensis;Bernache du Canada;LC;;;;;;;;Anatidae;Anseriforme;TRUE
+Branta leucopsis;Bernache nonnette;LC;;;;;;;;Anatidae;Anseriforme;TRUE
+Bucephala clangula;Garrot à oeil d'or;LC;;;;;;;;Anatidae;Anseriforme;TRUE
+Clangula hyemalis;Harelde boréale;VU;;;;;;;;Anatidae;Anseriforme;TRUE
+Cygnus atratus;Cygne noir;;;;;;;;;Anatidae;Anseriforme;TRUE
+Cygnus cygnus;Cygne chanteur;LC;;;;;;;;Anatidae;Anseriforme;TRUE
+Cygnus olor;Cygne tuberculé;LC;;LC;;;;;;Anatidae;Anseriforme;TRUE
+Melanitta nigra;Macreuse noire;LC;;;;LC;;;;Anatidae;Anseriforme;TRUE
+Mergus merganser;Harle bièvre;LC;;NT;;LC;;;;Anatidae;Anseriforme;TRUE
+Mergus serrator;Harle huppé;LC;;CR;;LC;;;;Anatidae;Anseriforme;TRUE
+Netta rufina;Nette rousse;LC;;LC;;;;;;Anatidae;Anseriforme;TRUE
+Tadorna tadorna;Tadorne de Belon;LC;;LC;;LC;;;;Anatidae;Anseriforme;TRUE
+Apus apus;Martinet noir;LC;;NT;;;;;;Apodidae;Apodiforme;FALSE
+Bubulcus ibis;Héron garde-bœufs;LC;;LC;;;;;;Ardeidae;Pelecaniforme;TRUE
+Casmerodius albus;Grande Aigrette;LC;;NT;;LC;;;;Ardeidae;Pelecaniforme;TRUE
+Egretta garzetta;Aigrette garzette;LC;;LC;;;;;;Ardeidae;Pelecaniforme;TRUE
+Ixobrychus minutus;Blongios nain;LC;;EN;;;;;;Ardeidae;Pelecaniforme;TRUE
+Nycticorax nycticorax;Bihoreau gris;LC;;NT;;;;;;Ardeidae;Pelecaniforme;TRUE
+Burhinus oedicnemus;Oedicnème criard;LC;;LC;;;;;;Burhinidae;Charadriiforme;TRUE
+Plectrophenax nivalis;Bruant des neiges;LC;;;;;;;;Calcariidae;Passeriforme;FALSE
+Caprimulgus europaeus;Engoulevent d'Europe;LC;;LC;;;;;;Caprimulgidae;Caprimulgiforme;TRUE
+Certhia brachydactyla;Grimpereau des jardins;LC;;LC;;;;;;Certhiidae;Passeriforme;FALSE
+Cettia cetti;Bouscarle de Cetti;LC;;NT;;;;;;Cettiidae;Passeriforme;FALSE
+Charadrius alexandrinus;Gravelot à collier interrompu;LC;;VU;;;;;;Charadriidae;Charadriiforme;TRUE
+Charadrius dubius;Petit Gravelot;LC;;LC;;;;;;Charadriidae;Charadriiforme;TRUE
+Charadrius hiaticula;Grand Gravelot;LC;;VU;;LC;;International;;Charadriidae;Charadriiforme;TRUE
+Pluvialis apricaria;Pluvier doré;LC;;;;LC;;;;Charadriidae;Charadriiforme;TRUE
+Pluvialis fulva;Pluvier fauve;LC;;;;;;;;Charadriidae;Charadriiforme;TRUE
+Pluvialis squatarola;Pluvier argenté;LC;;;;LC;;National;;Charadriidae;Charadriiforme;TRUE
+Vanellus gregarius;Vanneau sociable;CR;;;;;;;;Charadriidae;Charadriiforme;TRUE
+Vanellus vanellus;Vanneau huppé;NT;;NT;;LC;;;;Charadriidae;Charadriiforme;TRUE
+Ciconia ciconia;Cigogne blanche;LC;;LC;;;;;;Ciconiidae;Ciconiiforme;TRUE
+Ciconia nigra;Cigogne noire;LC;;EN;VU;;;;;Ciconiidae;Ciconiiforme;TRUE
+Cisticola juncidis;Cisticole des joncs;LC;;VU;;;;;;Cisticolidae;Passeriforme;FALSE
+Columba livia;Pigeon biset domestique;LC;;;;;;;;Columbidae;Columbiforme;FALSE
+Columba oenas;Pigeon colombin;LC;;LC;;;;;;Columbidae;Columbiforme;FALSE
+Columba palumbus;Pigeon ramier;LC;;LC;;LC;;;;Columbidae;Columbiforme;FALSE
+Streptopelia decaocto;Tourterelle turque;LC;;LC;;;;;;Columbidae;Columbiforme;FALSE
+Streptopelia turtur;Tourterelle des bois;VU;;VU;;;;;;Columbidae;Columbiforme;FALSE
+Corvus corax;Grand Corbeau;LC;;LC;;;;;;Corvidae;Passeriforme;FALSE
+Corvus corone;Corneille noire;LC;;LC;;;;;;Corvidae;Passeriforme;FALSE
+Corvus monedula;Choucas des tours;LC;;LC;;;;;;Corvidae;Passeriforme;FALSE
+Garrulus glandarius;Geai des chênes;LC;;LC;;;;;;Corvidae;Passeriforme;FALSE
+Pica pica;Pie bavarde;LC;;LC;;;;;;Corvidae;Passeriforme;FALSE
+Clamator glandarius;Coucou geai;LC;;LC;;;;;;Cuculidae;Cuculiforme;FALSE
+Cuculus canorus;Coucou gris;LC;;LC;;;;;;Cuculidae;Cuculiforme;FALSE
+Emberiza calandra;Bruant proyer;LC;;LC;;;;;;Emberizidae;Passeriforme;FALSE
+Emberiza citrinella;Bruant jaune;LC;;VU;;;;;;Emberizidae;Passeriforme;FALSE
+Emberiza hortulana;Bruant ortolan;LC;;EN;EN;;;;;Emberizidae;Passeriforme;FALSE
+Emberiza schoeniclus;Bruant des roseaux;LC;;EN;;;;;;Emberizidae;Passeriforme;FALSE
+Falco columbarius;Faucon émerillon;LC;;;;;;;;Falconidae;Falconiforme;TRUE
+Falco eleonorae;Faucon d'Eléonore;LC;;;;;;;;Falconidae;Falconiforme;TRUE
+Falco peregrinus;Faucon pèlerin;LC;;LC;;;;;;Falconidae;Falconiforme;TRUE
+Falco subbuteo;Faucon hobereau;LC;;LC;;;;;;Falconidae;Falconiforme;TRUE
+Falco tinnunculus;Faucon crécerelle;LC;;NT;;;;;;Falconidae;Falconiforme;TRUE
+Falco vespertinus;Faucon kobez;NT;;;;;;;;Falconidae;Falconiforme;TRUE
+Carduelis cannabina;Linotte mélodieuse;LC;;VU;;;;;;Fringillidae;Passeriforme;FALSE
+Carduelis carduelis;Chardonneret élégant;LC;;VU;;;;;;Fringillidae;Passeriforme;FALSE
+Carduelis chloris;Verdier d'Europe;LC;;VU;;;;;;Fringillidae;Passeriforme;FALSE
+Carduelis spinus;Tarin des aulnes;LC;;LC;;;;;;Fringillidae;Passeriforme;FALSE
+Coccothraustes coccothraustes;Grosbec casse-noyaux;LC;;LC;;;;;;Fringillidae;Passeriforme;FALSE
+Fringilla coelebs;Pinson des arbres;LC;;LC;;;;;;Fringillidae;Passeriforme;FALSE
+Fringilla montifringilla;Pinson du nord;LC;;;;;;;;Fringillidae;Passeriforme;FALSE
+Loxia curvirostra;Bec-croisé des sapins;LC;;LC;;;;;;Fringillidae;Passeriforme;FALSE
+Pyrrhula pyrrhula;Bouvreuil pivoine;LC;;VU;;;;;;Fringillidae;Passeriforme;FALSE
+Serinus serinus;Serin cini;LC;;VU;;;;;;Fringillidae;Passeriforme;FALSE
+Gavia arctica;Plongeon arctique;LC;;;;;;;;Gaviidae;Gaviiforme;TRUE
+Glareola pratincola;Glaréole à collier;LC;;EN;;;;;;Glaréolidae;Charadriiforme;TRUE
+Grus grus;Grue cendrée;LC;;CR;;NT;;;;Gruidae;Gruiforme;TRUE
+Haematopus ostralegus;Huîtrier pie;NT;;LC;;;;;;Haematopodidae;Charadriiforme;TRUE
+Cecropis daurica;Hirondelle rousseline;LC;;VU;;;;;;Hirundinidae;Passeriforme;FALSE
+Delichon urbicum;Hirondelle de fenêtre;LC;;NT;;;;;;Hirundinidae;Passeriforme;FALSE
+Hirundo rustica;Hirondelle rustique;LC;;NT;;;;;;Hirundinidae;Passeriforme;FALSE
+Riparia riparia;Hirondelle de rivage;LC;;LC;;;;;;Hirundinidae;Passeriforme;FALSE
+Oceanodroma leucorhoa;Océanite culblanc;LC;;;;;;;;Hydrobatidae;Procellariiforme;TRUE
+Lanius collurio;Pie-grièche écorcheur;LC;;NT;;;;;;Laniidae;Passeriforme;FALSE
+Lanius senator;Pie-grièche à tête rousse;LC;;VU;;;;;;Laniidae;Passeriforme;FALSE
+Chlidonias hybrida;Guifette moustac;LC;;VU;;;;;;Laridae;Charadriiforme;TRUE
+Chlidonias leucopterus;Guifette leucoptère;LC;;;;;;;;Laridae;Charadriiforme;TRUE
+Chlidonias niger;Guifette noire;LC;;EN;;;;;;Laridae;Charadriiforme;TRUE
+Chroicocephalus genei;Goéland railleur;LC;;VU;;;;;;Laridae;Charadriiforme;TRUE
+Chroicocephalus philadelphia;Mouette de Bonaparte;LC;;;;;;;;Laridae;Charadriiforme;TRUE
+Chroicocephalus ridibundus;Mouette rieuse;LC;;NT;;LC;;;;Laridae;Charadriiforme;TRUE
+Gelochelidon nilotica;Sterne hansel;LC;;VU;;;;;;Laridae;Charadriiforme;TRUE
+Hydrocoloeus minutus;Mouette pygmée;LC;;;;LC;;;;Laridae;Charadriiforme;TRUE
+Hydroprogne caspia;Sterne caspienne;LC;;;NT;;;;;Laridae;Charadriiforme;TRUE
+Larus argentatus;Goéland argenté;LC;;NT;;;;;;Laridae;Charadriiforme;TRUE
+Larus audouinii;Goéland d'Audouin;LC;;EN;;;;;;Laridae;Charadriiforme;TRUE
+Larus canus;Goéland cendré;LC;;EN;;LC;;;;Laridae;Charadriiforme;TRUE
+Larus delawarensis;Goéland à bec cerclé;LC;;;;;;;;Laridae;Charadriiforme;TRUE
+Larus fuscus;Goéland brun;LC;;LC;;LC;;;;Laridae;Charadriiforme;TRUE
+Larus glaucoides;Goéland de Kumlien;LC;;;;;;;;Laridae;Charadriiforme;TRUE
+Larus hyperboreus;Goéland bourgmestre;LC;;;;;;;;Laridae;Charadriiforme;TRUE
+Larus marinus;Goéland marin;LC;;LC;;;;;;Laridae;Charadriiforme;TRUE
+Larus melanocephalus;Mouette mélanocéphale;LC;;LC;;;;;;Laridae;Charadriiforme;TRUE
+Larus michahellis;Goéland leucophée;LC;;LC;;;;;;Laridae;Charadriiforme;TRUE
+Rissa tridactyla;Mouette tridactyle;LC;;VU;;;;;;Laridae;Charadriiforme;TRUE
+Sterna dougallii;Sterne de Dougall;LC;;CR;NT;;;;;Laridae;Charadriiforme;TRUE
+Sterna hirundo;Sterne pierregarin;LC;;LC;LC;;;;;Laridae;Charadriiforme;TRUE
+Sterna paradisaea;Sterne arctique;LC;;CR;LC;;;;;Laridae;Charadriiforme;TRUE
+Sterna sandvicensis;Sterne caugek;LC;;NT;LC;;;;;Laridae;Charadriiforme;TRUE
+Sternula albifrons;Sterne naine;LC;;LC;LC;;;;;Laridae;Charadriiforme;TRUE
+Locustella luscinioides;Locustelle luscinoïde;LC;;EN;;;;;;Locustellidae;Passeriforme;FALSE
+Locustella naevia;Locustelle tachetée;LC;;NT;;;;;;Locustellidae;Passeriforme;FALSE
+Merops apiaster;Guêpier d'Europe;LC;;LC;;;;;;Meropidae;Coraciiforme;FALSE
+Anthus campestris;Pipit rousseline;LC;;LC;;;;;;Motacillidae;Passeriforme;FALSE
+Anthus petrosus;Pipit maritime;LC;;NT;;;;;;Motacillidae;Passeriforme;FALSE
+Anthus pratensis;Pipit farlouse;NT;;VU;;;;;;Motacillidae;Passeriforme;FALSE
+Anthus spinoletta;Pipit spioncelle;LC;;LC;;;;;;Motacillidae;Passeriforme;FALSE
+Anthus trivialis;Pipit des arbres;LC;;LC;;;;;;Motacillidae;Passeriforme;FALSE
+Motacilla alba;Bergeronnette grise;LC;;LC;;;;;;Motacillidae;Passeriforme;FALSE
+Motacilla cinerea;Bergeronnette des ruisseaux;LC;;LC;;;;;;Motacillidae;Passeriforme;FALSE
+Motacilla flava;Bergeronnette printanière;LC;;LC;;;;;;Motacillidae;Passeriforme;FALSE
+Luscinia svecica;Gorgebleue à miroir;LC;;LC;;;;;;Muscicapidae;Passeriforme;TRUE
+Erithacus rubecula;Rougegorge familier;LC;;LC;;;;;;Muscicapidae;Passeriforme;FALSE
+Ficedula hypoleuca;Gobemouche noir;LC;;VU;;;;;;Muscicapidae;Passeriforme;FALSE
+Luscinia megarhynchos;Rossignol philomèle;LC;;LC;;;;;;Muscicapidae;Passeriforme;FALSE
+Muscicapa striata;Gobemouche gris;LC;;NT;;;;;;Muscicapidae;Passeriforme;FALSE
+Oenanthe oenanthe;Traquet motteux;LC;;NT;;;;;;Muscicapidae;Passeriforme;FALSE
+Phoenicurus ochruros;Rougequeue noir;LC;;LC;;;;;;Muscicapidae;Passeriforme;FALSE
+Phoenicurus phoenicurus;Rougequeue à front blanc;LC;;LC;;;;;;Muscicapidae;Passeriforme;FALSE
+Saxicola rubetra;Tarier des prés;LC;;VU;;;;;;Muscicapidae;Passeriforme;FALSE
+Saxicola rubicola;Tarier pâtre;;;NT;;;;;;Muscicapidae;Passeriforme;FALSE
+Oriolus oriolus;Loriot d'Europe;LC;;LC;;;;;;Oriolidae;Passeriforme;FALSE
+Panurus biarmicus;Panure à moustaches;LC;;LC;;;;;;Panuridae;Passeriforme;FALSE
+Cyanistes caeruleus;Mésange bleue;LC;;LC;;;;;;Paridae;Passeriforme;FALSE
+Parus major;Mésange charbonnière;LC;;LC;;;;;;Paridae;Passeriforme;FALSE
+Periparus ater;Mésange noire;LC;;LC;;;;;;Paridae;Passeriforme;FALSE
+Passer domesticus;Moineau domestique;;;LC;;;;;;Passeridae;Passeriforme;FALSE
+Passer montanus;Moineau friquet;LC;;EN;;;;;;Passeridae;Passeriforme;FALSE
+Phalacrocorax carbo;Grand Cormoran;LC;;LC;;LC;;;;Phalacrocoracidae;Suliforme;TRUE
+Coturnix coturnix;Caille des blés;LC;;LC;;;;;;Phasianidae;Galliforme;FALSE
+Perdix perdix;Perdrix grise;LC;;LC;;;;;;Phasianidae;Galliforme;FALSE
+Phasianus colchicus;Faisan de Colchide;LC;;LC;;;;;;Phasianidae;Galliforme;FALSE
+Phoenicopterus roseus;Flamant rose;LC;;VU;;;;;;Phoenicopteridae;Phoenicopteriforme;TRUE
+Phylloscopus bonelli;Pouillot de Bonelli;;;LC;;;;;;Phylloscopidae;Passeriforme;FALSE
+Phylloscopus collybita;Pouillot véloce;LC;;LC;;;;;;Phylloscopidae;Passeriforme;FALSE
+Phylloscopus inornatus;Pouillot à grands sourcils;LC;;;;;;;;Phylloscopidae;Passeriforme;FALSE
+Phylloscopus sibilatrix;Pouillot siffleur;LC;;NT;;;;;;Phylloscopidae;Passeriforme;FALSE
+Phylloscopus trochilus;Pouillot fitis;LC;;NT;;;;;;Phylloscopidae;Passeriforme;FALSE
+Dendrocopos major;Pic épeiche;LC;;LC;;;;;;Picidae;Piciforme;FALSE
+Dendrocopos minor;Pic épeichette;LC;;VU;;;;;;Picidae;Piciforme;FALSE
+Dryocopus martius;Pic noir;LC;;LC;;;;;;Picidae;Piciforme;FALSE
+Jynx torquilla;Torcol fourmilier;LC;;LC;;;;;;Picidae;Piciforme;FALSE
+Picus viridis;Pic vert;LC;;LC;;;;;;Picidae;Piciforme;FALSE
+Podiceps auritus;Grèbe esclavon;;;;;VU;;;;Podicipedidae;Podicipediforme;TRUE
+Podiceps cristatus;Grèbe huppé;LC;;LC;;;;;;Podicipedidae;Podicipediforme;TRUE
+Podiceps nigricollis;Grèbe à cou noir;LC;;LC;;LC;;;;Podicipedidae;Podicipediforme;TRUE
+Tachybaptus ruficollis;Grèbe castagneux;LC;;LC;;;;;;Podicipedidae;Podicipediforme;TRUE
+Tadorna ferruginea;Tadorne casarca;LC;;;;;;;;Podicipedidae;Podicipediforme;TRUE
+Prunella modularis;Accenteur mouchet;LC;;LC;;;;;;Prunellidae;Passeriforme;FALSE
+Nymphicus hollandicus;Calopsitte élégante;;;;;;;;;Psittacidae;Psittaciforme;FALSE
+Fulica atra;Foulque macroule;LC;;LC;;;;;;Rallidae;Gruiforme;TRUE
+Gallinula chloropus;Gallinule poule-d'eau;LC;;LC;;;;;;Rallidae;Gruiforme;TRUE
+Porzana porzana;Marouette ponctuée;LC;;VU;;;;;;Rallidae;Gruiforme;TRUE
+Rallus aquaticus;Râle d'eau;LC;;NT;;;;;;Rallidae;Gruiforme;TRUE
+Himantopus himantopus;Échasse blanche;LC;;LC;;;;;;Recurvirostridae;Charadriiforme;TRUE
+Recurvirostra avosetta;Avocette élégante;LC;;LC;;;;International;;Recurvirostridae;Charadriiforme;TRUE
+Regulus ignicapilla;Roitelet à triple bandeau;LC;;LC;;;;;;Regulidae;Passeriforme;FALSE
+Regulus regulus;Roitelet huppé;LC;;NT;;;;;;Regulidae;Passeriforme;FALSE
+Remiz pendulinus;Rémiz penduline;LC;;CR;;;;;;Remizidae;Passeriforme;FALSE
+Actitis hypoleucos;Chevalier guignette;LC;;NT;;;;National;;Scolopacidae;Charadriiforme;TRUE
+Arenaria interpres;Tournepierre à collier;LC;;;;LC;;;;Scolopacidae;Charadriiforme;TRUE
+Calidris alba;Bécasseau sanderling;LC;;;;LC;;;;Scolopacidae;Charadriiforme;TRUE
+Calidris alpina;Bécasseau variable;LC;;;;LC;;International;;Scolopacidae;Charadriiforme;TRUE
+Calidris canutus;Bécasseau maubèche;NT;;;;NT;;National;;Scolopacidae;Charadriiforme;TRUE
+Calidris ferruginea;Bécasseau cocorli;NT;;;LC;;;;;Scolopacidae;Charadriiforme;TRUE
+Calidris himantopus;Bécasseau à échasses;LC;;;;;;;;Scolopacidae;Charadriiforme;TRUE
+Calidris maritima;Bécasseau violet;LC;;;;;;;;Scolopacidae;Charadriiforme;TRUE
+Calidris melanotos;Bécasseau tacheté;LC;;;;;;;;Scolopacidae;Charadriiforme;TRUE
+Calidris minuta;Bécasseau minute;LC;;;LC;;;National;;Scolopacidae;Charadriiforme;TRUE
+Calidris pusilla;Bécasseau semipalmé;NT;;;;;;;;Scolopacidae;Charadriiforme;TRUE
+Calidris ruficollis;Bécasseau à cou roux;NT;;;;;;;;Scolopacidae;Charadriiforme;TRUE
+Calidris temminckii;Bécasseau de Temminck;LC;;;;;;;;Scolopacidae;Charadriiforme;TRUE
+Gallinago gallinago;Bécassine des marais;LC;;CR;;;;;;Scolopacidae;Charadriiforme;TRUE
+Limicola falcinellus;Bécasseau falcinelle;LC;;;;;;;;Scolopacidae;Charadriiforme;TRUE
+Limosa lapponica;Barge rousse;NT;;;;LC;;National;;Scolopacidae;Charadriiforme;TRUE
+Limosa limosa;Barge à queue noire;NT;;VU;VU;NT;;International;;Scolopacidae;Charadriiforme;TRUE
+Lymnocryptes minimus;Bécassine sourde;LC;;;;;;;;Scolopacidae;Charadriiforme;TRUE
+Numenius arquata;Courlis cendré;NT;;VU;;LC;;National;;Scolopacidae;Charadriiforme;TRUE
+Numenius phaeopus;Courlis corlieu;LC;;;;VU;;National;;Scolopacidae;Charadriiforme;TRUE
+Phalaropus fulicarius;Phalarope à bec large;LC;;;;;;;;Scolopacidae;Charadriiforme;TRUE
+Phalaropus lobatus;Phalarope à bec étroit;LC;;;;;;;;Scolopacidae;Charadriiforme;TRUE
+Phalaropus tricolor;Phalarope de Wilson;LC;;;;;;;;Scolopacidae;Charadriiforme;TRUE
+Philomachus pugnax;Combattant varié;LC;;;NT;;;;;Scolopacidae;Charadriiforme;TRUE
+Tringa erythropus;Chevalier arlequin;LC;;;;;;National;;Scolopacidae;Charadriiforme;TRUE
+Tringa glareola;Chevalier sylvain;LC;;;LC;;;;;Scolopacidae;Charadriiforme;TRUE
+Tringa nebularia;Chevalier aboyeur;LC;;;LC;;;National;;Scolopacidae;Charadriiforme;TRUE
+Tringa ochropus;Chevalier culblanc;LC;;;LC;;;;;Scolopacidae;Charadriiforme;TRUE
+Tringa stagnatilis;Chevalier stagnatile;LC;;;;;;;;Scolopacidae;Charadriiforme;TRUE
+Tringa totanus;Chevalier gambette;LC;;;LC;;;National;;Scolopacidae;Charadriiforme;TRUE
+Tryngites subruficollis;Bécasseau rousset;NT;;;;;;;;Scolopacidae;Charadriiforme;TRUE
+Xenus cinereus;Chevalier bargette;LC;;;;;;;;Scolopacidae;Charadriiforme;TRUE
+Scolopax rusticola;Bécasse des bois;LC;;LC;;LC;;;;Scolopacidae;Charadriiforme;TRUE
+Sitta europaea;Sittelle torchepot;LC;;LC;;;;;;Sittidae;Passeriforme;FALSE
+Stercorarius parasiticus;Labbe parasite;LC;;;LC;;;;;Stercorariidae;Charadriiforme;TRUE
+Stercorarius skua;Grand labbe;LC;;;LC;;;;;Stercorariidae;Charadriiforme;TRUE
+Asio flammeus;Hibou des marais;LC;;VU;;;;;;Strigidae;Strigiforme;TRUE
+Asio otus;Hibou moyen-duc;LC;;LC;;;;;;Strigidae;Strigiforme;TRUE
+Strix aluco;Chouette hulotte;LC;;LC;;;;;;Strigidae;Strigiforme;TRUE
+Tyto alba;Effraie des clochers;LC;;LC;;;;;;Strigidae;Strigiforme;TRUE
+Pastor roseus;Etourneau roselin;LC;;;;;;;;Sturnidae;Passeriforme;FALSE
+Sturnus vulgaris;Étourneau sansonnet;LC;;LC;;LC;;;;Sturnidae;Passeriforme;FALSE
+Morus bassanus;Fou de Bassan;LC;;NT;;;;;;Sulidae;Suliforme;TRUE
+Sylvia atricapilla;Fauvette à tête noire;LC;;LC;;;;;;Sylviidae;Passeriforme;FALSE
+Sylvia borin;Fauvette des jardins;LC;;NT;;;;;;Sylviidae;Passeriforme;FALSE
+Sylvia communis;Fauvette grisette;LC;;LC;;;;;;Sylviidae;Passeriforme;FALSE
+Sylvia undata;Fauvette pitchou;NT;;EN;;;;;;Sylviidae;Passeriforme;FALSE
+Platalea leucorodia;Spatule blanche;LC;;NT;;VU;;International;;Threskiornithidae;Pelecaniforme;TRUE
+Plegadis falcinellus;Ibis falcinelle;LC;;NT;;;;;;Threskiornithidae;Pelecaniforme;TRUE
+Threskiornis aethiopicus;Ibis sacré;LC;;;;;;;;Threskiornithidae;Pelecaniforme;TRUE
+Troglodytes troglodytes;Troglodyte mignon;LC;;LC;;;;;;Troglodytidae;Passeriforme;FALSE
+Turdus iliacus;Grive mauvis;NT;;;;LC;;;;Turdidae;Passeriforme;FALSE
+Turdus merula;Merle noir;LC;;LC;;;;;;Turdidae;Passeriforme;FALSE
+Turdus philomelos;Grive musicienne;LC;;LC;;;;;;Turdidae;Passeriforme;FALSE
+Turdus pilaris;Grive litorne;LC;;LC;;LC;;;;Turdidae;Passeriforme;FALSE
+Turdus torquatus;Merle à plastron;LC;;LC;;;;;;Turdidae;Passeriforme;FALSE
+Turdus viscivorus;Grive draine;LC;;LC;;;;;;Turdidae;Passeriforme;FALSE
+Upupa epops;Huppe fasciée;LC;;LC;;;;;;Upupidae;Bucerotiforme;FALSE
